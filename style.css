@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;1,400&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: #fcfbf7;
+}
+
+.serif-title {
+    font-family: 'Playfair Display', serif;
+}
+
+/* Spine utilities used across different views */
+.spine-shadow {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0) 12%);
+}
+
+.spine-pattern {
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0) 4%, rgba(0, 0, 0, 0.2) 8%, rgba(255, 255, 255, 0.05) 12%, rgba(255, 255, 255, 0) 20%);
+}

@@ -1,0 +1,20 @@
+/* Custom styling matching the earthy aesthetic of image_18ac1d.png */
+
+.body-gradient {
+    background: radial-gradient(ellipse at top right, #fffaeb, #e7e5e4, #d6d3d1);
+}
+
+.register-box {
+    box-shadow: 0 30px 60px -15px rgba(44, 39, 35, 0.12), 0 10px 25px -5px rgba(0, 0, 0, 0.04);
+    border: 1px solid rgba(231, 229, 228, 0.5);
+}
+
+.concept-btn {
+    background-color: #a78b71;
+    box-shadow: 0 4px 14px rgba(167, 139, 113, 0.25);
+}
+
+.concept-btn:hover {
+    background-color: #8e735b;
+    box-shadow: 0 6px 20px rgba(142, 115, 91, 0.35);
+}
